@@ -7,7 +7,7 @@ Software Engineering mini-project: a web-based **Bank Management System (BMS)** 
 | Member | Role in documents | GitHub |
 |---|---|---|
 | Member 1 | SRS owner & integration | @ |
-| Member 2 | Test Plan & test cases | @ |
+| Member 2 | Test Plan & test cases | @vijaykumar-187 |
 | Member 3 | Architecture & design (SAD), repo owner | @Ronit77x |
 | Member 4 | Security, NFRs, traceability (RTM), backlog check | @ |
 
